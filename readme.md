@@ -119,6 +119,7 @@
 + [Tiime Compte Pro](https://www.tiime.fr/compte-pro) (fr)
 + [Qonto](https://qonto.eu/) (fr)
 + [Wise](https://wise.com/fr/business/) (be)
++ [Cogima](https://www.cogima.net/) (fr)
 
 ### Financement
 
